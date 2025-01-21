@@ -1,2 +1,3 @@
 # OpenSeesPy-Learn
-This repo is for my learning OpenseesPy
+This repository is dedicated for learn OpenSeesPy for my theses.
+
